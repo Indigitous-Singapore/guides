@@ -1,0 +1,34 @@
+title: Indigitous SG - Guides #----> Required
+remote_theme: wharrf/brp-theme
+timezone: Asia/Singapore
+repository: Indigitous-Singapore/guides #----> Required
+plugins:
+  - jekyll-seo-tag
+  - jekyll-include-cache
+baseurl: ''
+permalink: '/:path/:basename'
+logo: /assets/logo.png
+image: /assets/logo.png
+server_PROD: https://search.opendoc.sg
+server_DEV: https://search-staging.opendoc.sg
+google_analytics:  #----> Optional, Google analytics ID
+
+fast_build: false
+offline: true
+preload_pages: true
+
+styling_options:
+  primary_brand_color: '#ef4e25'  #----> Optional, theme color
+  logo_path: /assets/logo.png  #----> Optional, path to logo
+  opendoc_logo_path: /assets/images/logo-full.png
+  feedback_url: mailto:developer@indigitous.sg #----> Optional, feedback url
+  
+folders:
+  - name: 'introduction'
+    title: 'Introduction'
+    order:
+      - index.md
+  - name: 'begin-project-planning'
+    title: 'How to Begin Project Planning'
+    order: 
+      - index.md
