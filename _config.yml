@@ -1,7 +1,7 @@
 title: Indigitous SG - Guides #----> Required
 remote_theme: wharrf/brp-theme
 timezone: Asia/Singapore
-repository: Indigitous-Singapore/guides #----> Required
+repository: Buooy/Opendoc-SG-Editor #----> Required
 plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
