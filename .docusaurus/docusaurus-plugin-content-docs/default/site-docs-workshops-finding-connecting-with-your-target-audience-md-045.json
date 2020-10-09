@@ -1,0 +1,21 @@
+{
+  "unversionedId": "workshops/finding-connecting-with-your-target-audience",
+  "id": "workshops/finding-connecting-with-your-target-audience",
+  "isDocsHomePage": false,
+  "title": "Finding & Connecting with Your Target Audience",
+  "description": "By Lillian Seow, Senior Digital Strategist, Cru",
+  "source": "@site/docs/workshops/finding-connecting-with-your-target-audience.md",
+  "slug": "/workshops/finding-connecting-with-your-target-audience",
+  "permalink": "/guides/workshops/finding-connecting-with-your-target-audience",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/workshops/finding-connecting-with-your-target-audience.md",
+  "version": "current",
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Defining Problems",
+    "permalink": "/guides/"
+  },
+  "next": {
+    "title": "Practical User Experience (UX) in 7 Minutes",
+    "permalink": "/guides/workshops/practical-ux-in-7-minutes"
+  }
+}

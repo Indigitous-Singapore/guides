@@ -1,0 +1,13 @@
+{
+  "unversionedId": "workshops/doc1",
+  "id": "workshops/doc1",
+  "isDocsHomePage": false,
+  "title": "Style Guide",
+  "description": "You can write content using GitHub-flavored Markdown syntax.",
+  "source": "@site/docs/workshops/defining-audiences.md",
+  "slug": "/",
+  "permalink": "/guides/",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/workshops/defining-audiences.md",
+  "version": "current",
+  "sidebar_label": "Style Guide"
+}
