@@ -1,0 +1,42 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/guides",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/guides",
+          "mainDocId": "workshops/defining-problems",
+          "docs": [
+            {
+              "id": "doc1",
+              "path": "/guides/doc1"
+            },
+            {
+              "id": "workshops/defining-problems",
+              "path": "/guides/"
+            },
+            {
+              "id": "workshops/finding-connecting-with-your-target-audience",
+              "path": "/guides/workshops/finding-connecting-with-your-target-audience"
+            },
+            {
+              "id": "workshops/opening-up-spiritual-conversations",
+              "path": "/guides/workshops/opening-up-spiritual-conversations"
+            },
+            {
+              "id": "workshops/practical-ux-in-7-minutes",
+              "path": "/guides/workshops/practical-ux-in-7-minutes"
+            },
+            {
+              "id": "workshops/win-hearts-to-win-souls",
+              "path": "/guides/workshops/win-hearts-to-win-souls"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
