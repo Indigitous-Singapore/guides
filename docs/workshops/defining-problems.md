@@ -1,7 +1,6 @@
 ---
 id: defining-problems
 title: Defining Problems
-slug: /
 ---
 
 #### By Bryan Long, Founder, Testing Ground

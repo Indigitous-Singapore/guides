@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'Who Are We',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/grape/person-drawing.png',
     description: (
       <>
         Indigitous is about using our talents for God in the digital space. We are  a global community engaging with ideas and each other to advance God’s Kingdom through innovation.
@@ -18,7 +18,7 @@ const features = [
   },
   {
     title: 'Focus on What Matters',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/grape/people-chatting.png',
     description: (
       <>
         We are passionate about helping fulfill the Great Commission by engaging & unleashing Believers into Digital Missions through global events, digital-resourcing and community building.
@@ -27,7 +27,7 @@ const features = [
   },
   {
     title: 'Into the Digital',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/grape/person-ideating.png',
     description: (
       <>
       We believe missional work can go beyond the traditional; that some efforts are ground-up from the everyday Christian, and they can be in the digital realm where millions of souls now spend a huge chunk of their time.
